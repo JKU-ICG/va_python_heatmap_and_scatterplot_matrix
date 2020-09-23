@@ -6,8 +6,8 @@ You can either work online, via MyBinder, or locally.
 
 ### MyBinder
 
-Go to: https://mybinder.org/v2/gh/keckelt/Python-Heatmap-and-Scatterplot-Matrix/master
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keckelt/Python-Heatmap-and-Scatterplot-Matrix/master)
+Go to: https://mybinder.org/v2/gh/JKU-ICG/va_python_heatmap_and_scatterplot_matrix/master?urlpath=lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JKU-ICG/va_python_heatmap_and_scatterplot_matrix/master?urlpath=lab)
  and open the *template* notebook.
 
 ### Local
