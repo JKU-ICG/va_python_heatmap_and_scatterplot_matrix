@@ -17,12 +17,13 @@ git clone https://github.com/JKU-ICG/va_python_heatmap_and_scatterplot_matrix
 cd va_python_heatmap_and_scatterplot_matrix
 ```
 
-You can reuse the conda environment from the tutorial:
+Create a new environemnt and install the packages:
 ```
 conda create --name va_heatmap_scatterplot
 conda activate va_heatmap_scatterplot
 conda install -c conda-forge --yes --file requirements.txt
 ```
+Hint: For more information on Anaconca and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
 
 Then launch Jupyter Lab :
 ```
